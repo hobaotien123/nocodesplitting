@@ -1,4 +1,3 @@
-import React, {Suspense} from 'react';
 import { useState } from 'react';
 import { useParams } from 'react-router';
 import ImageCarousel from '../components/Carousel';
